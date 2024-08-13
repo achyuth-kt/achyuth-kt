@@ -32,3 +32,7 @@ I'm always open to new opportunities, collaborations, and discussions. Feel free
 Let's code something amazing together! 🚀       
 ![achyuth-kt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=achyuth-k-t&theme=vue-dark&hide_border=true)    
 ![achyuth-kt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achyuth-k-t&theme=merko&show_icons=true&hide_border=false&layout=compact)
+
+Let's code something amazing together! 🚀       
+![achyuth-kt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=achyuth-kt&theme=vue-dark&hide_border=true)    
+![achyuth-kt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achyuth-kt&theme=merko&show_icons=true&hide_border=false&layout=compact)
