@@ -83,16 +83,16 @@
   <img src="https://media4.giphy.com/media/2sbQ9kfHlN43TsfjeE/giphy.gif?cid=ecf05e47sgz05eeetquf2o4zzkn6vx9hts62shoxaiitxe4d&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50" alt="GitHub Stats Icon">
 </h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achyuth-k-t&exclude_repo=PostgreSQL-practice-projects,Finance-dashbord-MERN&theme=vue-dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achyuth-kt&exclude_repo=PostgreSQL-practice-projects,Finance-dashbord-MERN&theme=vue-dark&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=achyuth-k-t&theme=vue-dark&hide_border=true" alt="Streak Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achyuth-kt&exclude_repo=PostgreSQL-practice-projects,Finance-dashbord-MERN&theme=vue-dark&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achyuth-k-t&exclude_repo=PostgreSQL-practice-projects,Finance-dashbord-MERN&theme=vue-dark&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=achyuth-kt&theme=vue-dark&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=achyuth-kt&theme=redical" alt="Activity Graph" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=achyuth-k-t&theme=redical" alt="Activity Graph" />
 </p>
 
 <h4 align="center">
