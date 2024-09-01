@@ -92,7 +92,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=achyuth-k-t&theme=redical" alt="Activity Graph" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=achyuth-kt&theme=redical" alt="Activity Graph" />
 </p>
 
 <h4 align="center">
