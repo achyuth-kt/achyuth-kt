@@ -50,7 +50,7 @@
   <img src="https://media4.giphy.com/media/pB4oYINWRmtbS5FlCX/giphy.gif?cid=ecf05e47wkhkwx7fnntlrll3o8puutnty6q23ce3aza1alwy&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="32" alt="Goals Gif"> &nbsp; Goals ⨾ 
 </h2>
 
-🚀 **Future Vision:** &nbsp;<em>Contribute to cutting-edge projects and continue growing in AI and web development.</em>
+🚀 **Future Vision:** &nbsp;<em>Contribute to cutting-edge projects and continue growing in Software Engineering.</em>
 
 <br>
 
