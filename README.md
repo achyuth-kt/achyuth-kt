@@ -6,7 +6,7 @@
   <img src="https://media1.giphy.com/media/qAXDUie0dPweocOvnw/giphy.gif?cid=ecf05e47ti6g6ad6wpzzbnryawe53kjgxja2t5ictclalz58&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100" alt="Waving Hand Gif">
 </h1>
 
-<h4 align="center">
+<h4 align="center"> 
   <em><b>Web Developer | Building Projects</b></em>
 </h4>
 
