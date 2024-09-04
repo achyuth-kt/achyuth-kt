@@ -72,7 +72,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,sass,js,mysql,cpp,py&theme=light" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,sass,js,mysql,cpp,py,java&theme=light" alt="Tech Stack Icons" />
   </a>
 </p>
 
